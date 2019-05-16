@@ -162,8 +162,11 @@ Complete five of the six criteria to receive a C. Complete four of the six to re
 **To earn a higher grade**, you can complete additional work. I will adjust your final grade upwards by **one half of a letter grade** for each of the following:
 
 1. Earn an average of at least 3.0 across all quizzes, including any bonus points you earn. This rewards you for sustained high performance on the individual quizzes.
+
 2. Complete an individual challenge assignment. There will be at least two of these. This rewards you for exceptional individual engagement with the course material.
+
 3. Completion of excellent work on a team-based major project. To receive credit for this, you must turn in an extra document that makes a **successful evidence-based case** that your team has gone beyond the satisfactory requirements for the project. Your write-up must include a description of how each team member contributed to make the poejct excellent. This rewards you for doing high-quality teamwork.
+
 4. Completion of an in-depth reflective essay that draws upon your earlier reflections throughout the course. This rewards you for critically evaluating your own learning process.
 
 ### Why Are You Doing This To Us?
@@ -171,8 +174,11 @@ Complete five of the six criteria to receive a C. Complete four of the six to re
 This style of grading is called **Specifications Grading** or **Contract Grading**. It has several advantages over the traditional 0-100 based points system:
 
 1. Your grade is directly tied to the learning that you demonstrate in the course. The satisfactory work sets a baseline, but to earn a higher grade, you must either jump more hurdles or jump higher ones.
+
 2. It gives you choices for how to attain higher grades. You can complete individual programming assignments, superior team work, or in-depth reflection.
+
 3. It's relatively easy to get a B if you do the required work, but hard to get an A. This preserves the integrity of the course, while still making it possible for everyone to succeed.
+
 4. If you only need a B or a C, you can adjust your effort accordingly: the standards are transparent.
 
 ### What About My Partial Credit?
