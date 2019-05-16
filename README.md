@@ -3,8 +3,8 @@
 ## Who? Where?
 
 Dan S. Myers (Dr. Myers)  
-Bush 263
-dmyers@rollins.edu
+Bush 263  
+dmyers@rollins.edu  
 407-646-2146
 
 ## Scrumage
