@@ -141,6 +141,11 @@ I'll grade the quizzes on a scale from 0 to 3:
 2. Satisfactory.
 3. Excellent, complete and correct with an attention to detail and insight that goes beyond satisfactory.
 
+Your team can earn a **bonus point** on a quiz if either:
+
+1. Every member of the team earns a 2 or 3.
+2. The team as a whole improves compared to the previous sprint quiz.
+
 ### Final Letter Grades
 
 **To earn a B-**, you must meet the following six criteria:
@@ -166,13 +171,52 @@ Complete five of the six criteria to receive a C. Complete four of the six to re
 This style of grading is called **Specifications Grading** or **Contract Grading**. It has several advantages over the traditional 0-100 based points system:
 
 1. Your grade is directly tied to the learning that you demonstrate in the course. The satisfactory work sets a baseline, but to earn a higher grade, you must either jump more hurdles or jump higher ones.
-
 2. It gives you choices for how to attain higher grades. You can complete individual programming assignments, superior team work, or in-depth reflection.
-
 3. It's relatively easy to get a B if you do the required work, but hard to get an A. This preserves the integrity of the course, while still making it possible for everyone to succeed.
-
-4. If you only need a B or a C, you can adjust your effort accordingly: the standards are transparent. If you want a higher grade, you have an incentive to do more.
+4. If you only need a B or a C, you can adjust your effort accordingly: the standards are transparent.
 
 ### What About My Partial Credit?
 
-You may initially feel uncomfortable about everything being graded as satisfactory / no credit.
+You may initially feel uncomfortable about everything being graded as satisfactory / no credit. This will pass.
+
+Each project will have a spec that clearly explains the requirements for satisfactory work. You can also ask me (through the expert request form) for an evaluation of your work-in-progress.
+
+Industry doesn't give partial credit. If you're asked to code a feature or prepare a presentation, you're ultimately going to be evaluated on a pass / fail basis.
+
+There are six ways to increase your grade. You only need four of them to move from the satisfactory B- to an A.
+
+## Course Policies
+
+**Attendance** The only way to be consistently successful in your academic ca- reer is to regularly attend class meetings and participate in in-class activities. Therefore, while I do not mandate attendance at every single class, I expect full attendance every time we meet.
+
+**Laptops** If you have a laptop, please bring it to class.
+
+**Phones** Unlike laptops, I see few advantages to using phones during class. Please silence your phones at the beginning of class. Holding text conversations during class is both distracting and disrespectful and will not be tolerated.
+
+**Late Submissions** Assignments are due on the stated day at the stated time. Speak to me in well in advance of the due date if you need an extension.
+
+**Please speak to me if there are any issues making it difficult for you to succeed in class**. We can always work out a plan to deal with illness, work, or family responsibilities.
+
+**Recording** No audio or video recording is permitted without prior permission.
+
+**Canvas and GitHub** Most of the course material will be distributed through GitHub. We'll use Canvas to keep track of grades, announcements, and a few other things.
+
+## Necessary and Proper Clause
+
+As your course facilitator, I will make every effort to adhere to the topics and schedule described in this syllabus. However, I reserve the right to make changes for the good of the course.
+
+
+## Honor Code
+Membership in the student body of Rollins College carries with it an obligation, and requires a commitment, to act with honor in all things. The student commitment to uphold the values of honor - honesty, trust, respect, fairness, and responsibility - particularly manifests itself in two public aspects of student life. First, as part of the admission process to the College, students agree to com- mit themselves to the Honor Code. Then, as part of the matriculation process during Orientation, students sign a more detailed pledge to uphold the Honor Code and to conduct themselves honorably in all their activities, both academic and social, as a Rollins student. A student signature on the following pledge is a binding commitment by the student that lasts for his or her entire tenure at Rollins College:
+
+>> The development of the virtues of Honor and Integrity are integral to a Rollins College education and to membership in the Rollins College community. Therefore, I, a student of Rollins College, pledge to show my commitment to these virtues by abstaining from any lying, cheating, or plagiarism in my academic endeavors and by behaving responsibly, respectfully and honorably in my social life and in my relationships with others. This pledge is reinforced every time a student submits work for academic credit as his/her own. Students shall add to the paper, quiz, test, lab report, etc., the handwritten signed statement:
+
+>> **“On my honor, I have not given, nor received, nor witnessed any unauthorized assistance on this work.”**
+
+>> Material submitted electronically should contain the pledge; submission implies signing the pledge.
+
+### How do I interpret the Honor Code?
+In the context of this class, my interpretation of the Honor Code pledge is that the work you submit for every assignment shall be your own original creation. This means that any item you submit must be written by you and you alone, or in an assigned group project by your group alone. Copying a complete solution from fellow class members, previous class members, books, or the Internet is a violation of this policy and will constitute academic misconduct.
+
+## Official Syllabus Statements
+
