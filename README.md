@@ -150,7 +150,7 @@ Your team can earn a **bonus point** on a quiz if either:
 
 **To earn a B-**, you must meet the following six criteria:
 
-1. Satisfactory completion of all reflective assignments and concept maps. You get to do these in class, so this one is easy.
+1. Satisfactory completion of all reflective assignments and concept maps.
 2. Get an average of at least 2.0 on your top *N* - 1 indvidual quizzes, including any bonus points you earn.
 3. Satisfactory work on *N* - 1 of the team sprint deliverables.
 4. Satisfactory work on major project #1.
