@@ -66,7 +66,11 @@ include:
 | 4            | Advanced Data Structures I: Trees   |  2/24  |  3/9   | Compression     |
 | 5            | Advanced Data Structures 2: Hashing |  3/9   |  3/30  | ????????        |
 | 6            | Research                        |  3/30  |  4/13  | Educational video |
-| 7            | Graph Algorithms                |  4/13  |  4/27  | Procedural Content Generation |
+| 7            | Graph Algorithms                |  4/13  |  4/27  | Procedural content generation |
+
+### Schedule Guidelines
+
+You **must** be in class on the ending day of each sprint to complete the individual quiz. You must also plan to be present for in-class presentations on 1/22 and 3/25.
 
 ### Other Important Dates
 
