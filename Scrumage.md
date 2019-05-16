@@ -24,22 +24,27 @@ Classroom management is the way that a class is run, such as giving lectures, de
 
 Traditional classroom management is to lecture, give an example, then give an assignment or two that is done between classes, followed by a test.  You may have taken a course that is "flipped", which is a class management style in which students are introduced to new content before class through either a video or reading; in-class time is then spent doing assignments and active learning exercises. Classroom management decisions are almost always made by professors. We get to decide what will be taught and in what order, what resources the class will use, and how assignments should be completed and graded.
 
-In this class, we're going to try something completely different: I'm going to put as many of the classroom management decisions as I can in **your** (that is, you, the student's) hands. 
+## Scrumage is Different
+In this class, we're going to try something new: I'm going to put as many of the classroom management decisions as I can in **your** (that is, you, the student's) hands. 
 
-We're going to apply the principles of Scrum to education. You will work in teams (later you'll get to choose teams for yourself) and have broad freedom to decide how to meet the learning goals of the class.
+We're going to apply the principles of Scrum to education. You will work in teams and, just like in traditional Scrum, each team will have broad freedom to determine how to meet its goals. You can set your own schedule, learn from the resources you find most useful, and create your own plans for completing the assignments.
 
-## How Will It Work?
-In Scrumage, the product owner is the professor.  The professor is in charge of defining the requirements and evaluating the results.  The students will be in teams which will each decide how to proceed to get the requirements done.  Note that the teams are NOT creating software.  The "product backlog" is the requirements of the course: understanding certain material, doing the assignments and projects, and completing a quiz.  
+I will be the "product owner", with responsibility for managing the overall timeline and evaluating work. The "product backlog" will be the set of learning outcomes for the course.
 
-## Sprints
-Every 2 weeks we will cover one unit of material, which will be called a "sprint".  The day the sprint begins, you will be assigned to a team for the duration of the sprint.  You will then check out the sprint contents online.  Each sprint website contains the following sections:
+# Sprints
+Every two weeks we will cover one unit of material, which will be called a "sprint".  You will be in one team for the duration of the sprint. Teams of one are possible, but we should probably talk if you're planning on working alone. You will be able to change teams between sprints or stay with the same team if you want.
 
-* Roadmap: Assigned teams, due dates for requirements, date of quiz. 
-* Responsibilities: A list of course topics you are responsible for learning.  
-* Rationale: The reason we are learning the material.  You can think of this as being analogous to "story cards", although the requirements aren't really written that way.
-* Requirements: The things you need to turn in, like projects or problem sets.  Some are to be done individually, and some are to be done as a team.  This, along with understanding the concepts from the responsibilities, defines what would be the "product backlog".
-* Resources: Any helps that you may use to learn, like videos, readings, examples, lecture notes, or things you can request from the professor (like lectures, tutoring, or review games).
-* Reality Check: Freaked out by this weird process?  The reality check notes give an example of how you might organize your time... you know, if this were a regular class.
+- Roadmap: Assigned teams, due dates for requirements, date of quiz.
+
+- Responsibilities: A list of course topics you are responsible for learning during the sprint.
+
+- Rationale: The motivation for learning this material.  You can think of these as being analogous to "story cards", although the requirements aren't really written that way.
+
+- Requirements: The deliverable things you need to turn in at the end of the sprint, for example, problem sets or programming assignments. This, along with understanding the concepts from the responsibilities, defines what would be the "product backlog".
+
+- Resources: Things that you can use to learn, like videos, readings, examples, lecture notes, or things you can request from the professor (like lectures, tutoring, or review games).
+
+- Reality Check: Freaked out by this weird process?  The reality check notes give an example of how you might organize your time... you know, if this were a regular class.
 
 ### How To: Sprint Planning Meeting
  At the beginning of each sprint, you will meet your team and hold a sprint planning meeting during class.  The following things need to be done at this sprint planning meeting:
