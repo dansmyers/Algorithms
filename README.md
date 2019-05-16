@@ -62,7 +62,7 @@ include:
 | 2            | Divide-and-Conquer              |   1/27 |  2/10  | Problem set     |
 | 3            | Sorting                         |  2/10  |  2/24  | Problem set     |
 | 4            | Adv. Data Structures I: Trees   |  2/24  |  3/9   | Compression     |
-| 5            | Adv. Data Structures 2: Hashing |  3/9   |  3/30  | Compression     |
+| 5            | Adv. Data Structures 2: Hashing |  3/9   |  3/30  | ????????        |
 | 6            | Research                        |  3/30  |  4/13  | Educational video |
 | 7            | Graph Algorithms                |  4/13  |  4/27  | Procedural Content Generation |
 
