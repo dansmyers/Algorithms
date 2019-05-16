@@ -213,9 +213,10 @@ Membership in the student body of Rollins College carries with it an obligation,
 >
 > **“On my honor, I have not given, nor received, nor witnessed any unauthorized assistance on this work.”**
 >
-> Material submitted electronically should contain the pledge; submission implies signing the pledge.
 
-### How do I interpret the Honor Code?
+Material submitted electronically should contain the pledge; submission implies signing the pledge.
+
+## How Do I Interpret the Honor Code?
 In the context of this class, my interpretation of the Honor Code pledge is that the work you submit for every assignment shall be your own original creation. This means that any item you submit must be written by you and you alone, or in an assigned group project by your group alone. Copying a complete solution from fellow class members, previous class members, books, or the Internet is a violation of this policy and will constitute academic misconduct.
 
 ## Official Syllabus Statements
