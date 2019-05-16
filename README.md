@@ -70,10 +70,10 @@ include:
 
 ### Other Important Dates
 
-First day of class: Monday, January 13 (**Note: CLA classes officially begin on 1/15**)  
-Last day of class: Monday, April 27  
-MLK Day: Monday, January 20  
-Spring Break: Saturday, 3/14 to Sunday 3/22 (occurs during Sprint 5)  
-Dr. Myers at SIGCSE: Wednesday, 3/11 to Sunday, 3/15  
+- First day of class: Monday, January 13 (**Note: CLA classes officially begin on 1/15**)
+- Last day of class: Monday, April 27
+- MLK Day: Monday, January 20
+- Spring Break: Saturday, 3/14 to Sunday 3/22 (occurs during Sprint 5)
+- Dr. Myers at SIGCSE: Wednesday, 3/11 to Sunday, 3/15
 
 ## The All-Important Grading Section
