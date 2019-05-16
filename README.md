@@ -21,7 +21,7 @@ I sometimes need to modify my schedule to account for meetings and other campus 
 
 **CMS 460 Algorithm Analysis**: Detailed study of algorithm design and analysis, including greedy algorithms, divide and conquer, dynamic programming, backtracking, and brance and bound. Emphasis on verification and analysis of time space complexity. NP theory is introduced. Prerequisites: CMS 270 and MAT 140.
 
-## What Will We Learn?
+## What Will We Learn in This Class?
 
 There's a perception that the field of computer science is
 constantly changing, and in some respects that's true: there are
@@ -50,6 +50,8 @@ include:
 - Divide-and-conquer algorithms
 - Fundamental data structures: trees and hash tables
 - Graph algorithms and their applications
+
+## Okay. Great. Why Should I Care?
 
 ## Scrumage
 
