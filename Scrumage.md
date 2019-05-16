@@ -31,8 +31,10 @@ We're going to apply the principles of Scrum to education. You will work in team
 
 I will be the "product owner", with responsibility for managing the overall timeline and evaluating work. The "product backlog" will be the set of learning outcomes for the course.
 
-# Sprints
+## Sprints
 Every two weeks we will cover one unit of material, which will be called a "sprint".  You will be in one team for the duration of the sprint. Teams of one are possible, but we should probably talk if you're planning on working alone. You will be able to change teams between sprints or stay with the same team if you want.
+
+Each sprint will have a document (posted to the class GitHub repo) describing the following:
 
 - Roadmap: Assigned teams, due dates for requirements, date of quiz.
 
@@ -50,13 +52,20 @@ Every two weeks we will cover one unit of material, which will be called a "spri
  At the beginning of each sprint, you will meet your team and hold a sprint planning meeting during class.  The following things need to be done at this sprint planning meeting:
 
 1. Choose a scrum master.  This is a person on your team who will simply manage the scrum process and make sure the team runs like a well-oiled machine.  
+
 2. Decide generally how you want to learn.  As a team, look at the sprint contents online and figure out how you choose to proceed to learn the material and get the requirements done. How do you want to use class time?  What should be done outside of class?  Who on the team will do what?  What do you want to request of the professor?  Don't make specific choices yet, just get a feel for your teammates' preferences.
+
 3. Start breaking each task down into small increments.  This is called the sprint backlog, and each task is a card.  For example, you might have on your backlog cards like "Read the chapter.", "Do problems 1-5", "Check Ralph's example and see if his answers match mine."
+
 4. Play planning poker.  Planning poker is the assignment of a number to each task giving its relative size to the other tasks.  It doesn't matter to me if you use time or points.  For individual tasks, you can assign a number to it by yourself, but for group tasks, everyone gets a say in the number it gets assigned.  Write the estimate on the card.
+
 5. Make requests of the professor.  Let me know (through an online submission) what kind of help you want (like a lecture, tutoring, checking homework, etc...) as well as what topic you want help with and when you would like the help.  Remember that every team is making requests and there is only one professor - I will endeavor to be as equitable as I can.  Also remember that any request I can't fulfill in class time can always just be diverted to my office hours.  You may not know yet what kind of help you need.  You can fill out the request form as you discover the need.  Just remember that things are generally first come, first served.
+
 6. Assign tasks.  Figure out who gets lead on each card, and annotate the card accordingly.
+
 7. Start the burn-down chart.  This shows the daily progress of the tasks being completed from the backlog.  For the sprint planning, you just need to set it up - no calculations need to be done yet.
-## How to: Stand-up Meeting
+
+### How to: Stand-up Meeting
 At the beginning of each class time, your team will have a "stand up".  This is a very short meeting in which the team discusses what has gotten done and what will be done now.  This is a time to make sure every team member is contributing.  This meeting should last no more than 10 minutes.  During the stand-up, the following will occur:
 
 * I will come around and look at your backlog and burn-down charts
