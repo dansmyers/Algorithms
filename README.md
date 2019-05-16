@@ -209,11 +209,11 @@ As your course facilitator, I will make every effort to adhere to the topics and
 ## Honor Code
 Membership in the student body of Rollins College carries with it an obligation, and requires a commitment, to act with honor in all things. The student commitment to uphold the values of honor - honesty, trust, respect, fairness, and responsibility - particularly manifests itself in two public aspects of student life. First, as part of the admission process to the College, students agree to com- mit themselves to the Honor Code. Then, as part of the matriculation process during Orientation, students sign a more detailed pledge to uphold the Honor Code and to conduct themselves honorably in all their activities, both academic and social, as a Rollins student. A student signature on the following pledge is a binding commitment by the student that lasts for his or her entire tenure at Rollins College:
 
->> The development of the virtues of Honor and Integrity are integral to a Rollins College education and to membership in the Rollins College community. Therefore, I, a student of Rollins College, pledge to show my commitment to these virtues by abstaining from any lying, cheating, or plagiarism in my academic endeavors and by behaving responsibly, respectfully and honorably in my social life and in my relationships with others. This pledge is reinforced every time a student submits work for academic credit as his/her own. Students shall add to the paper, quiz, test, lab report, etc., the handwritten signed statement:
-
->> **“On my honor, I have not given, nor received, nor witnessed any unauthorized assistance on this work.”**
-
->> Material submitted electronically should contain the pledge; submission implies signing the pledge.
+> The development of the virtues of Honor and Integrity are integral to a Rollins College education and to membership in the Rollins College community. Therefore, I, a student of Rollins College, pledge to show my commitment to these virtues by abstaining from any lying, cheating, or plagiarism in my academic endeavors and by behaving responsibly, respectfully and honorably in my social life and in my relationships with others. This pledge is reinforced every time a student submits work for academic credit as his/her own. Students shall add to the paper, quiz, test, lab report, etc., the handwritten signed statement:
+>
+> **“On my honor, I have not given, nor received, nor witnessed any unauthorized assistance on this work.”**
+>
+> Material submitted electronically should contain the pledge; submission implies signing the pledge.
 
 ### How do I interpret the Honor Code?
 In the context of this class, my interpretation of the Honor Code pledge is that the work you submit for every assignment shall be your own original creation. This means that any item you submit must be written by you and you alone, or in an assigned group project by your group alone. Copying a complete solution from fellow class members, previous class members, books, or the Internet is a violation of this policy and will constitute academic misconduct.
