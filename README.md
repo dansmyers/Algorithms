@@ -75,5 +75,7 @@ include:
 - MLK Day: Monday, January 20
 - Spring Break: Saturday, 3/14 to Sunday 3/22 (occurs during Sprint 5)
 - Dr. Myers at SIGCSE: Wednesday, 3/11 to Sunday, 3/15
+- Last day to drop the class: ????????
+- Last day to withdraw without penalty: ????????
 
 ## The All-Important Grading Section
