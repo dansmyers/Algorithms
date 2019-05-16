@@ -56,6 +56,8 @@ include:
 
 ## Schedule
 
+### Sprints
+
 | Sprint       | Topic                           | Start  |   End  | Deliverable     | 
 | -------------|---------------------------------|--------|--------|-----------------|
 | 1            | Fundamental Analysis Techniques |   1/13 |  1/27  | Teach the class |
@@ -66,21 +68,12 @@ include:
 | 6            | Research                        |  3/30  |  4/13  | Educational video |
 | 7            | Graph Algorithms                |  4/13  |  4/27  | Procedural Content Generation |
 
+### Other Important Dates
 
-
-### Fundamental Analysis Techniques
-
-### Recursion and Divide-and-Conquer
-
-### Sorting
-
-### Advanced Data Structures I: Trees
-
-### Advanced Data Structures II: Hashing
-
-### Research
-
-### Graph Algorithms
-
+First day of class: Monday, January 13 (**Note: CLA classes officially begin on 1/15**)  
+Last day of class: Monday, April 27  
+MLK Day: Monday, January 20  
+Spring Break: Saturday, 3/14 to Sunday 3/22 (occurs during Sprint 5)  
+Dr. Myers at SIGCSE: Wednesday, 3/11 to Sunday, 3/15  
 
 ## The All-Important Grading Section
