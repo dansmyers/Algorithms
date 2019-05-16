@@ -54,7 +54,11 @@ include:
 ## Scrumage
 
 
-## Sprint Schedule
+## Schedule
+
+| Sprint       | Topic       | Start  | End | Deliverable |
+| -------------|-------------|--------|-----|-------------|
+| 1      | Fundamental Analysis Techniques | 1/13 |  1/27  | Teach the class |
 
 ### Fundamental Analysis Techniques
 
