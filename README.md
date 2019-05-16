@@ -165,7 +165,7 @@ Complete five of the six criteria to receive a C. Complete four of the six to re
 
 2. Complete an individual challenge assignment. There will be at least two of these. This rewards you for exceptional individual engagement with the course material.
 
-3. Completion of excellent work on a team-based major project. To receive credit for this, you must turn in an extra document that makes a **successful evidence-based case** that your team has gone beyond the satisfactory requirements for the project. Your write-up must include a description of how each team member contributed to make the poejct excellent. This rewards you for doing high-quality teamwork.
+3. Completion of excellent work on a team-based major project. To receive credit for this, you must turn in an extra document that makes a **successful evidence-based case** that your team has gone beyond the satisfactory requirements for the project. Your write-up must include a description of how each team member contributed to make the project excellent. This rewards you for doing high-quality teamwork.
 
 4. Completion of an in-depth reflective essay that draws upon your earlier reflections throughout the course. This rewards you for critically evaluating your own learning process.
 
