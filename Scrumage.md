@@ -1,25 +1,32 @@
-# Scrum
+# Guide to Scrumage
+
+## Overview
+
+Scrumage is ***Scrum** for **Ag**ile **E**ducation*, a way of organizing and running a class based on the Scrum project-management
+framework. Scrum was first developed and implemented by Dr. Shannon Duvall at Elon University.
 
 ## Scrum
-To really understand this document, you should first be familiar with the elements of scrum.  If you need an overview, watch this video:
+Scrumage is based on Scrum, which has its own (slightly complex) set of terminology, roles, rituals, and artifacts. If you need an overview, watch this video:
 
 https://www.youtube.com/watch?v=XU0llRltyFM
 
-In particular, to understand Scrumage, you should be familiar with the following concepts:
+In particular, you should be familiar with the following concepts:
 
-1. Principles of Agile and scrum
+1. Principles of Agile and Scrum
 2. Roles of Product owner, Scrum Master, and Team Member
 3. Artifacts: Product backlog, sprint backlog, burn-down chart, team velocity.
 4. Ceremonies: Daily scrum stand-up, poker planning, sprint planning meeting, sprint retrospective
 
-We will be using scrum not only for project management (as you may have done in the past), but we'll also be using scrum as classroom management for our course.  
+We will be using Scrum not only for project management (as you may have done in the past), but we'll also be using Scrum as classroom management for our course.  
 
 ## Classroom Management
-Classroom Management is the way that a class is run, such as giving lectures, defining homework, doing textbook readings, and so forth.  Traditional classroom management is to lecture, give an example, then give an assignment or two that is done between classes, followed by a test.  You may have taken a course that is "flipped", which is a class management style in which students are introduced to new content before class through either a video or reading.  The in-class time is then spent doing the assignments.
+Classroom management is the way that a class is run, such as giving lectures, defining homework, doing textbook readings, and so forth.
 
-Up to now, classroom management has been defined by the professor.  However, in this class, we are going to try something completely different - I am going to put as much of the classroom management decisions as I can in your (the students') hands.
+Traditional classroom management is to lecture, give an example, then give an assignment or two that is done between classes, followed by a test.  You may have taken a course that is "flipped", which is a class management style in which students are introduced to new content before class through either a video or reading; in-class time is then spent doing assignments and active learning exercises.
 
-We are going to apply the principles of scrum to education. You will be put in teams (later you'll get to choose teams for yourself) and you will be given the things we want to learn and a bunch of choices and resources as to how to learn the material.  Then YOU get to choose how to proceed.
+Classroom management decisions are almost always made by professors. We get to decide what will be taught and in what order, what resources the class will use, and how assignments should be completed and graded. In this class, we're going to try something completely different: I'm going to put as many of the classroom management decisions as I can in **your** (that is, you, the student's) hands.
+
+We're going to apply the principles of Scrum to education. You will work in teams (later you'll get to choose teams for yourself) and have broad freedom to decide how to meet the learning goals of the class.
 
 ## How Will It Work?
 In Scrumage, the product owner is the professor.  The professor is in charge of defining the requirements and evaluating the results.  The students will be in teams which will each decide how to proceed to get the requirements done.  Note that the teams are NOT creating software.  The "product backlog" is the requirements of the course: understanding certain material, doing the assignments and projects, and completing a quiz.  
