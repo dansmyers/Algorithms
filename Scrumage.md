@@ -22,9 +22,9 @@ We will be using Scrum not only for project management (as you may have done in 
 ## Classroom Management
 Classroom management is the way that a class is run, such as giving lectures, defining homework, doing textbook readings, and so forth.
 
-Traditional classroom management is to lecture, give an example, then give an assignment or two that is done between classes, followed by a test.  You may have taken a course that is "flipped", which is a class management style in which students are introduced to new content before class through either a video or reading; in-class time is then spent doing assignments and active learning exercises.
+Traditional classroom management is to lecture, give an example, then give an assignment or two that is done between classes, followed by a test.  You may have taken a course that is "flipped", which is a class management style in which students are introduced to new content before class through either a video or reading; in-class time is then spent doing assignments and active learning exercises. Classroom management decisions are almost always made by professors. We get to decide what will be taught and in what order, what resources the class will use, and how assignments should be completed and graded.
 
-Classroom management decisions are almost always made by professors. We get to decide what will be taught and in what order, what resources the class will use, and how assignments should be completed and graded. In this class, we're going to try something completely different: I'm going to put as many of the classroom management decisions as I can in **your** (that is, you, the student's) hands.
+In this class, we're going to try something completely different: I'm going to put as many of the classroom management decisions as I can in **your** (that is, you, the student's) hands. 
 
 We're going to apply the principles of Scrum to education. You will work in teams (later you'll get to choose teams for yourself) and have broad freedom to decide how to meet the learning goals of the class.
 
