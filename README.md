@@ -177,13 +177,17 @@ This style of grading is called **Specifications Grading** or **Contract Grading
 
 ### What About My Partial Credit?
 
-You may initially feel uncomfortable about everything being graded as satisfactory / no credit. This will pass.
+You may feel uncomfortable about the two-level grading scale. This will pass.
 
-Each project will have a spec that clearly explains the requirements for satisfactory work. You can also ask me (through the expert request form) for an evaluation of your work-in-progress.
+1. Two-level grading is faster, so I will be able to return work more quickly and put more effort into giving you meaningful feedback.
 
-Industry doesn't give partial credit. If you're asked to code a feature or prepare a presentation, you're ultimately going to be evaluated on a pass / fail basis.
+2. Two-level grading is more consistent. It's easier to sort work into two bins, rather than slicing it into 100 possible points.
 
-There are six ways to increase your grade. You only need four of them to move from the satisfactory B- to an A.
+3. Each project will have a spec that clearly explains the requirements for satisfactory work. You can also ask me (through the expert request form) for an evaluation of your work-in-progress.
+
+4. Industry doesn't give partial credit. If you're asked to code a feature or prepare a presentation, you're ultimately going to be evaluated on a pass / fail basis.
+
+5. There are six ways to increase your grade. You only need four of them to move from the satisfactory B- to an A.
 
 ## Course Policies
 
