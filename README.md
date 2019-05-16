@@ -128,12 +128,10 @@ We'll have five kinds of assignments in the class:
 ### Grading
 Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on each of these assignments.
 
-I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. A satisfactory product is
+I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. Satisfactory means:
 
-1. Substantially complete and correct (it may have some issues, but only minor ones).
-
+1. Substantially complete and correct (there may be some issues, but only minor ones).
 2. Shows real understanding and application of the course material
-
 3. Completed on time in the required format.
 
 I'll grade the quizzes on a scale from 0 to 3:
@@ -148,15 +146,10 @@ I'll grade the quizzes on a scale from 0 to 3:
 **To earn a B-**, you must meet the following six criteria:
 
 1. Satisfactory completion of all reflective assignments and concept maps.
-
 2. Get an average of at least 2.0 on your top *N* - 1 indvidual quizzes, including any bonus points you earn.
-
 3. Satisfactory work on *N* - 1 of the team sprint deliverables.
-
 4. Satisfactory work on major project #1.
-
 5. Satisfactory work on major project #2.
-
 6. Satisfactory performance on the take-home final exam.
 
 Complete five of the six criteria to receive a C. Complete four of the six to receive a D.
@@ -164,13 +157,9 @@ Complete five of the six criteria to receive a C. Complete four of the six to re
 **To earn a higher grade**, you can complete additional work. I will adjust your final grade upwards by **one half of a letter grade** for each of the following:
 
 1. Earn an average of at least 3.0 across all quizzes, including any bonus points you earn. This rewards you for sustained high performance on the individual quizzes.
-
 2. Complete an individual challenge assignment. There will be at least two of these. This rewards you for exceptional individual engagement with the course material.
-
 3. Completion of excellent work on a team-based major project. To receive credit for this, you must turn in an extra document that makes a **successful evidence-based case** that your team has gone beyond the satisfactory requirements for the project. Your write-up must include a description of how each team member contributed to make the poejct excellent. This rewards you for doing high-quality teamwork.
-
 4. Completion of an in-depth reflective essay that draws upon your earlier reflections throughout the course. This rewards you for critically evaluating your own learning process.
-
 
 ### Why Are You Doing This To Us?
 
