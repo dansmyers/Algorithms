@@ -53,6 +53,36 @@ include:
 
 ## Scrumage
 
+### What?
+This course will be different from other courses you've taken. We'll be using a new course management framework called **Scrumage** ("**Scrum** for **Ag**ile **E**ducation"), originally developed by Dr. Shannon Duvall at Elon University. Scrumage is based on the Scrum project management framework, which you may have used for team-based projects in some of your earlier courses.
+
+### That Sounds Hard. Why Are We Doing This?
+Scrumage is based on **student choice**, **flexibility**, and **reflection**.
+
+In a traditional course, the professor is in charge of every aspect of the class. I get to decide what we learn, in what order, what readings or resoures we use, and how your learning will be assessed. If my choices don't work for you, well, that's tough.
+
+In this class, you'll have **freedom** to take ownership of your own learning. You'll have the broad ability to make your own schedule, choose your own combination of resources (lectures, readings, videos, examples, etc.), and generally pick the best individualized strategies that help you master the course material.
+
+Scrumage will let you **learn computer science concepts** by **working like a computer scientist**. Scrum is an industry-standard framework, so you'll be building facility with real software development techniques as you work through this course.
+
+Finally, Scrumage supports **learning how to learn**, the **single most important skill you can learn in college**. By taking ownership of your own learning, you'll be able to identify the resources, plans, and strategies that work best for you and build skills that you can take forward into other classes or your professional career.
+
+### How Does It Work?
+Here are the  main features of Scrumage:
+
+1. The course is structured as a series of **sprints**, each lasting two weeks. Each sprint covers one unit of material. There will be seven sprints in our course.
+
+2. At the beginning of each sprint, you'll be given a list of learning goals for the sprint, resources (videos, readings, worked examples, etc.), and a set of required deliverables due at the end of the two-week period.
+
+3. Working with a team, you'll have broad freedom to decide how to use the available resources to learn the required material and complete the sprint deliverables. You can decide on your own meeting schedule, what resources to use, and your own plan for finishing the projects. Scrumage gives you **options** and the freedom to determine your own best learning approach.
+
+4. As your professor, I'll be in the room each day to meet with your teams, answer your questions, and check your work-in-progress. You can make an **expert request** to ask for a short lecture, worked example, or other help with a particular topic.
+
+5. Each sprint ends with an individual quiz. You can receive bonus points if your entire team does well on the quiz or if your team members improve.
+
+6. You'll also have the opportunity to complete a short reflective exercise at the end of each sprint, which will help you understand your own learning process and make improvements before the next sprint.
+
+Take a look at the `Scrumage.md` document for a detailed overview of the process.
 
 ## Schedule
 
