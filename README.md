@@ -107,7 +107,7 @@ Finally, Scrumage supports **learning how to learn**, the **single most importan
 | 1            | Fundamental Analysis Techniques |   1/13 |  1/27  | Teach the class | 1, 2, 5  |
 | 2            | Divide-and-Conquer              |   1/27 |  2/10  | Problem set     | 2, 3     |
 | 3            | Sorting                         |  2/10  |  2/24  | Problem set     | 2, 3     |
-| 4            | Advanced Data Structures I: Trees   |  2/24  |  3/9   | Compression     | 1, 2, 3, 4 |
+| 4            | Advanced Data Structures 1: Trees   |  2/24  |  3/9   | Compression     | 1, 2, 3, 4 |
 | 5            | Advanced Data Structures 2: Hashing |  3/9   |  3/30  | ????????        | 1, 2, 3, 4 |
 | 6            | Research                        |  3/30  |  4/13  | Educational video | 1, 2, 3, 4, 5 |
 | 7            | Graph Algorithms                |  4/13  |  4/27  | Procedural content generation | 1, 2, 3, 4 |
