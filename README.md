@@ -191,13 +191,17 @@ Complete five of the six criteria to receive a C. Complete four of the six to re
 
 This style of grading is called **Specifications Grading** or **Contract Grading**. It has several advantages over the traditional 0-100 based points system:
 
-1. Your grade is directly tied to the learning that you demonstrate in the course. The satisfactory work sets a baseline, but to earn a higher grade, you must either jump more hurdles or jump higher ones.
+1. In a traditional system, your grade is ultimately determined by my judgment of your work. My judgment is pretty good, but specs grading gives you more clarity about where you stand and guidance for how to achieve the grade you want
 
-2. It gives you choices for how to attain higher grades. You can complete individual programming assignments, superior team work, or in-depth reflection.
+2. Your grade is directly tied to the learning that you demonstrate. The satisfactory work sets a baseline, but to earn a higher grade, you must either jump more hurdles or jump higher ones.
 
-3. It's relatively easy to get a B if you do the required work, but hard to get an A. This preserves the integrity of the course, while still making it possible for everyone to succeed.
+3. It gives you choices for how to attain higher grades. You can boost your grade by completing individual programming assignments, superior team-based projects, or an in-depth reflection.
 
-4. If you only need a B or a C, you can adjust your effort accordingly: the standards are transparent.
+4. It's relatively easy to get a B if you do the required work, but hard to get an A. This preserves the integrity of the course, while still making it possible for everyone to succeed.
+
+5. If you only need a B or a C, you can adjust your effort accordingly: the standards are transparent. You don't have to spend time on the most difficult assignments if you don't need them to get the result you want.
+
+6. It reflects how you'll be evaluated in your career. Work assignments aren't graded out of 100% and your boss won't give partial credit for incomplete work.
 
 ### What About My Partial Credit?
 
@@ -209,7 +213,7 @@ You may feel uncomfortable about the two-level grading scale. This will pass.
 
 3. Each project will have a spec that clearly explains the requirements for satisfactory work. You can also ask me (through the expert request form) for an evaluation of your work-in-progress.
 
-4. Industry doesn't give partial credit. If you're asked to code a feature or prepare a presentation, you're ultimately going to be evaluated on a pass / fail basis.
+4. Again, industry doesn't give partial credit. If you're asked to code a feature or prepare a presentation, you're ultimately going to be evaluated on a pass / fail basis.
 
 5. There are six ways to increase your grade. You only need four of them to move from the satisfactory B- to an A.
 
