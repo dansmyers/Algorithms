@@ -132,9 +132,16 @@ You **must** be in class on the ending day of each sprint to complete the indivi
 
 ## The All-Important Grading Section
 
-### Assignments
+### Specs Grading
 Grading for this course will also be different from your previous classes.
 
+Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on each of these assignments. This approach is called **Specifications Grading** or **Contract Grading** and it has several advantages over the traditional 0-100 based points system:
+
+I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. 
+
+If you achieve satisfactory performance on enough assigments, described in more detail below, you'll receive a baseline grade of **B-** for the course. This demonstrates that you have engaged with the material and met the basic learning outcomes for the class. To get a higher grade, you can do more work that shows greater mastery of the course learning outcomes.
+
+### Assignments and Scoring
 We'll have five kinds of assignments in the class:
 
 1. The short reflective pieces completed at the end of each sprint.
@@ -143,15 +150,7 @@ We'll have five kinds of assignments in the class:
 4. Two major projects, due at the ends of sprints 5 and 7.
 5. A take-home final exam.
 
-### Grading
-Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on each of these assignments. This approach is called **Specifications Grading** or **Contract Grading** and it has several advantages over the traditional 0-100 based points system:
-
-I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. 
-
-If you achieve satisfactory performance on enough assigments, described in more detail below, you'll receive a baseline grade of **B-** for the course. This demonstrates that you have engaged with the material and met the basic learning outcomes for the class. To get a higher grade, you can do more work that shows greater mastery of the course learning outcomes.
-
-### Scoring
-"Satisfactory" corresponds to a B-level performance. It means that the work is:
+A "Satisfactory" assignment corresponds to a B-level performance. It means that the work is:
 
 1. Substantially complete and correct (there may be a few issues, but only minor ones).
 2. Shows real understanding and application of the course material
