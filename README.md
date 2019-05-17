@@ -135,25 +135,24 @@ You **must** be in class on the ending day of each sprint to complete the indivi
 ### Specs Grading
 Grading for this course will also be different from your previous classes.
 
-Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on each of these assignments. This approach is called **Specifications Grading** or **Contract Grading** and it has several advantages over the traditional 0-100 based points system:
-
-I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. 
+Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on a bundle of assignments. This approach is called **Specifications Grading** or **Contract Grading** and it has several advantages over the traditional 0-100 based points system.
 
 If you achieve satisfactory performance on enough assigments, described in more detail below, you'll receive a baseline grade of **B-** for the course. This demonstrates that you have engaged with the material and met the basic learning outcomes for the class. To get a higher grade, you can do more work that shows greater mastery of the course learning outcomes.
 
 ### Assignments and Scoring
 We'll have five kinds of assignments in the class:
 
-1. The short reflective pieces completed at the end of each sprint.
-2. The team deliverables due at the end of each sprint.
-3. The indvidual quizzes
+1. Short reflective pieces completed at the end of each sprint.
+2. Team deliverables due at the end of each sprint.
+3. Indvidual quizzes
 4. Two major projects, due at the ends of sprints 5 and 7.
 5. A take-home final exam.
 
-A "Satisfactory" assignment corresponds to a B-level performance. It means that the work is:
+I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. 
+A "satisfactory" assignment corresponds to a B-level performance, which is **a higher standard** than we often associate with that term. It means that the work is:
 
 1. Substantially complete and correct (there may be a few issues, but only minor ones).
-2. Shows real understanding and application of the course material
+2. Shows real understanding and application of the course material.
 3. Completed on time in the required format.
 
 I'll grade the quizzes on a scale from 0 to 3:
@@ -163,10 +162,10 @@ I'll grade the quizzes on a scale from 0 to 3:
 2. Satisfactory.
 3. Excellent, complete and correct with an attention to detail and insight that goes beyond satisfactory.
 
-Your team can earn a **bonus point** on a quiz if either:
+You can earn a **bonus point** on a quiz if either:
 
-1. Every member of the team earns a 2 or 3.
-2. The team as a whole improves compared to the previous sprint quiz.
+1. Every member of your team earns a 2 or 3.
+2. You improve your individual performance relative to the last quiz.
 
 ### Final Letter Grades
 
@@ -179,7 +178,7 @@ Your team can earn a **bonus point** on a quiz if either:
 5. Satisfactory work on major project #2.
 6. Satisfactory performance on the take-home final exam.
 
-Complete five of the six criteria to receive a C. Complete four of the six to receive a D.
+Each criterion that you fail to satisfy will lower your final grade by **one half of a letter** (for example, from B- to C+). You must **satisfy at least three requirements** to receive a passing grade.
 
 **To earn a higher grade**, you can complete additional work. I will adjust your final grade upwards by **one half of a letter grade** for each of the following:
 
