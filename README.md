@@ -144,11 +144,16 @@ We'll have five kinds of assignments in the class:
 5. A take-home final exam.
 
 ### Grading
-Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on each of these assignments.
+Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on each of these assignments. This approach is called **Specifications Grading** or **Contract Grading** and it has several advantages over the traditional 0-100 based points system:
 
-I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. Satisfactory means:
+I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. 
 
-1. Substantially complete and correct (there may be some issues, but only minor ones).
+If you achieve satisfactory performance on enough assigments, described in more detail below, you'll receive a baseline grade of **B-** for the course. This demonstrates that you have engaged with the material and met the basic learning outcomes for the class. To get a higher grade, you can do more work that shows greater mastery of the course learning outcomes.
+
+### Scoring
+"Satisfactory" corresponds to a B-level performance. It means that the work is:
+
+1. Substantially complete and correct (there may be a few issues, but only minor ones).
 2. Shows real understanding and application of the course material
 3. Completed on time in the required format.
 
@@ -188,8 +193,6 @@ Complete five of the six criteria to receive a C. Complete four of the six to re
 4. Completion of an in-depth reflective essay that draws upon your earlier reflections throughout the course. This rewards you for critically evaluating your own learning process.
 
 ### Why Are You Doing This To Us?
-
-This style of grading is called **Specifications Grading** or **Contract Grading**. It has several advantages over the traditional 0-100 based points system:
 
 1. In a traditional system, your grade is ultimately determined by my judgment of your work. My judgment is pretty good, but specs grading gives you more clarity about where you stand and guidance for how to achieve the grade you want
 
