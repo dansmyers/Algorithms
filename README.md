@@ -51,6 +51,20 @@ include:
 - Fundamental data structures: trees and hash tables
 - Graph algorithms and their applications
 
+## Learning Outcomes
+
+At the end of this course, you will have achieved the following learning outcomes:
+
+1. Connect study of algorithms to other areas of computer science.
+
+2. Understand and apply ideas of complexity and efficiency.
+
+3. Develop "algorithmic intuition" -- familiarity with common moves and techniques.
+
+4. Develop research skills to learn about new algorithms and data structures.
+
+5. Be able to talk about algorithm choices intelligently.
+
 ## Scrumage
 
 ### What?
@@ -88,15 +102,15 @@ Finally, Scrumage supports **learning how to learn**, the **single most importan
 
 ### Sprints
 
-| Sprint       | Topic                           | Start  |   End  | Deliverable     | 
-| -------------|---------------------------------|--------|--------|-----------------|
-| 1            | Fundamental Analysis Techniques |   1/13 |  1/27  | Teach the class |
-| 2            | Divide-and-Conquer              |   1/27 |  2/10  | Problem set     |
-| 3            | Sorting                         |  2/10  |  2/24  | Problem set     |
-| 4            | Advanced Data Structures I: Trees   |  2/24  |  3/9   | Compression     |
-| 5            | Advanced Data Structures 2: Hashing |  3/9   |  3/30  | ????????        |
-| 6            | Research                        |  3/30  |  4/13  | Educational video |
-| 7            | Graph Algorithms                |  4/13  |  4/27  | Procedural content generation |
+| Sprint       | Topic                           | Start  |   End  | Deliverable     | Outcomes |
+| -------------|---------------------------------|--------|--------|-----------------|----------|
+| 1            | Fundamental Analysis Techniques |   1/13 |  1/27  | Teach the class | 1, 2, 5  |
+| 2            | Divide-and-Conquer              |   1/27 |  2/10  | Problem set     | 2, 3     |
+| 3            | Sorting                         |  2/10  |  2/24  | Problem set     | 2, 3     |
+| 4            | Advanced Data Structures I: Trees   |  2/24  |  3/9   | Compression     | 1, 2, 3, 4 |
+| 5            | Advanced Data Structures 2: Hashing |  3/9   |  3/30  | ????????        | 1, 2, 3, 4 |
+| 6            | Research                        |  3/30  |  4/13  | Educational video | 1, 2, 3, 4, 5 |
+| 7            | Graph Algorithms                |  4/13  |  4/27  | Procedural content generation | 1, 2, 3, 4 |
 
 ### Schedule Guidelines
 
