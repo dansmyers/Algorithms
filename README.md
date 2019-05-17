@@ -23,7 +23,6 @@ I sometimes need to modify my schedule to account for meetings and other campus 
 
 ## What Will We Learn in This Class?
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iceberg.jpg/1280px-Iceberg.jpg" width="400px"/>
 
 There's a perception that the field of computer science is
 constantly changing, and in some respects that's true: there are
@@ -32,15 +31,17 @@ up and old ones sinking down. Part of being a great computer
 scientist is learning how to continually adapt yourself to new
 ways of solving problems.
 
-All of this change that we see around us, though, is like the top
-part of an iceberg. The most visible elements of our field, like
+All of this change that we see around us, though, is like the **top
+part of an iceberg**. The most visible elements of our field, like
 languages and applications, are built upon and supported by a
-deeper layer of knowledge that's mostly invisible to the casual
+**deeper layer of knowledge** that's mostly invisible to the casual
 observer.
 
-This course is about what's under the water, the fundamental
-things that support all of the computer science, even if we don't
+This course is about what's under the water, **the fundamental
+things that support all of the computer science**, even if we don't
 see them right away.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iceberg.jpg/1280px-Iceberg.jpg" width="400px"/>
 
 After completing this Algorithms course, you will have a deeper
 understanding of many fundamental problem-solving strategies that
@@ -51,6 +52,7 @@ include:
 - Sorting algorithms
 - Divide-and-conquer algorithms
 - Fundamental data structures: trees and hash tables
+- Algorithmic strategies: greedy, backtracking, branch-and-bound, dynamic programming
 - Graph algorithms and their applications
 
 ## Learning Outcomes
