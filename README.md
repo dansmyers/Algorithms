@@ -23,6 +23,8 @@ I sometimes need to modify my schedule to account for meetings and other campus 
 
 ## What Will We Learn in This Class?
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iceberg.jpg/1280px-Iceberg.jpg)
+
 There's a perception that the field of computer science is
 constantly changing, and in some respects that's true: there are
 always new languages, frameworks, and application domain rising
