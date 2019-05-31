@@ -1,4 +1,6 @@
-# Algorithms Analysis
+# CMS 460 Algorithms
+
+## Spring 2020 Syllabus
 
 ## Who? Where?
 
