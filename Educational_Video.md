@@ -1,4 +1,4 @@
-# Sprint 5: Research and Educational Videos
+# Sprint 5: Educational Videos
 
 ## Description
 
