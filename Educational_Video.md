@@ -15,6 +15,17 @@ I will assign each team one of the following strategies to research:
 
 ## Why Are We Doing This?
 
+Let me answer your question with a question: what do you do when you're confronted with a problem that doesn't already have a well-known solution algorithm?
+
+Assuming you refuse to give up, you'd probably need to think about **designing a new algorithm** to solve the problem. That's where
+these design paradigms come in: they're like general strategies that have proven useful for making new algorithms.
+
+Coming up with new algorithms, however, is pretty tough. It takes years of practice to become really proficient at algorithm design; many people with advanced degrees in CS (*points thumbs back at self*) don't really have high-level expertise with the finer points of algorithm creation.
+
+Therefore, we're going to adopt a **buffet** strategy. We'll sample from a few different strategies, learn their key concepts, and get a feel for what they can do. Along the way, you'll get more in-depth exposure to one particular strategy by teaching it to the class.
+
+There is also a second, meta-level, point to this sprint. It's going to give you a chance to think about learning outcomes and how they might relate to assessment and content. As you work through the process of making your video, descibed in more detail below, you'll be working through the same process that most professors use when they design the classes you take.
+
 ## Deliverables
 
 Your team will produce a **10 minute** video introducing and explaining your assigned algorithmic strategy. You can use any technology or tool to make the video, but make sure it's something that you can export and upload to YouTube for others to view.
@@ -83,7 +94,9 @@ To receive credit, your video must:
 
 - In-class film festival
 
-## Resources
+## Submission and Grading
+
+We'll watch everyone's videos in-class on April 8. After class, upload a link to your YouTube video, a statement of your learning outcomes, and your three-question quiz to Canvas: I'll provide an appropriate assignment for you to use for the upload at the time.
 
 
 
