@@ -159,7 +159,7 @@ A "satisfactory" assignment corresponds to a B-level performance, which is **a h
 I'll grade the quizzes on a scale from 0 to 3:
 
 0. No submission, or too incomplete to grade.
-1. Shows effort, but has issues.
+1. Shows effort, but has serious issues.
 2. Satisfactory.
 3. Excellent, complete and correct with an attention to detail and insight that goes beyond satisfactory.
 
@@ -170,16 +170,30 @@ You can earn a **bonus point** on a quiz if either:
 
 ### Final Letter Grades
 
-**To earn a B-**, you must meet the following six criteria:
+**To earn a B**, you must meet the following six criteria:
 
 1. Satisfactory completion of all reflective assignments and concept maps.
 2. Get an average of at least 2.0 on your top *N* - 1 indvidual quizzes, including any bonus points you earn.
 3. Satisfactory work on *N* - 1 of the team sprint deliverables.
 4. Satisfactory work on major project #1.
 5. Satisfactory work on major project #2.
-6. Satisfactory performance on the take-home final exam.
+6. Satisfactory performance on the final exam.
 
-Each criterion that you fail to satisfy will lower your final grade by **one half of a letter** (for example, from B- to C+). You must **satisfy at least three requirements** to receive a passing grade.
+**If you fail to complete the requirements for a B**, your grade will be adjusted downwards according to the following table:
+
+
+| For unsatisfactory performance on | Your grade will be adjusted downwards by |
+| -------------|-----------------------------------------------------|
+| One quiz beyond the one you're allowed to drop | Half a letter grade |
+| Additional quizzes          | A full letter grade |
+| One team deliverable            | Half a letter grade |
+| Additional team deliverables            | A full letter grade |
+| A major project            | A full letter grade |
+| The final exam            | A full letter grade |
+| The reflective assignments            | A full letter grade |
+| Failure to submit an assignment | Double the penalty for an unsatisfactory submission |
+
+These penalties are cumulative. For example, if you fail to achieve satisfactory performance on two quizzes (beyond the one you're allowed drop), you base grade would be lowered by 1.5 letters, from B to C-.
 
 **To earn a higher grade**, you can complete additional work. I will adjust your final grade upwards by **one half of a letter grade** for each of the following:
 
