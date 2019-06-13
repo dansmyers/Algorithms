@@ -138,7 +138,7 @@ Grading for this course will also be different from your previous classes.
 
 Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on a bundle of assignments. This approach is called **Specifications Grading** or **Contract Grading** and it has several advantages over the traditional 0-100 based points system.
 
-If you achieve satisfactory performance on enough assigments, described in more detail below, you'll receive a baseline grade of **B-** for the course. This demonstrates that you have engaged with the material and met the basic learning outcomes for the class. To get a higher grade, you can do more work that shows greater mastery of the course learning outcomes.
+If you achieve satisfactory performance on enough assigments, described in more detail below, you'll receive a baseline grade of **B** for the course. This demonstrates that you have engaged with the material and met the basic learning outcomes for the class. To get a higher grade, you can do more work that shows greater mastery of the course learning outcomes.
 
 ### Assignments and Scoring
 We'll have five kinds of assignments in the class:
@@ -147,7 +147,7 @@ We'll have five kinds of assignments in the class:
 2. Team deliverables due at the end of each sprint.
 3. Indvidual quizzes
 4. Two major projects, due at the ends of sprints 5 and 7.
-5. A take-home final exam.
+5. A final exam.
 
 I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. 
 A "satisfactory" assignment corresponds to a B-level performance, which is **a higher standard** than we often associate with that term. It means that the work is:
@@ -183,8 +183,8 @@ You can earn a **bonus point** on a quiz if either:
 
 | For unsatisfactory performance on              | Your grade will be adjusted downwards by |
 |------------------------------------------------|------------------------------------------|
-| One quiz beyond the one you're allowed to drop | Half a letter grade                      |
-| Additional quizzes                             | A full letter grade                      |
+| One quiz beyond the one you're allowed to drop | Half a letter grade (e.g. B to B-)       |
+| Additional quizzes                             | A full letter grade (e.g. B to C)        |
 | One team deliverable                           | Half a letter grade                      |
 | Additional team deliverables                   | A full letter grade                      |
 | A major project                                | A full letter grade                      |
@@ -201,6 +201,9 @@ These penalties are cumulative. For example, if you fail to achieve satisfactory
 | A challenge assignment (there will be at least two) | Half a letter grade                      |
 | An in-depth reflective writing assignment           | Half a letter grade                      |
 | Bonus points on a majority of the quizzes           | Half a letter grade                      |
+
+If your grade drops, you can still complete extra work to boost it up. For example, you could struggle with one team deliverable, but
+complete the reflective writing assignment. The two would cancel each other out and your grade would remain a B.
 
 ### Why Are You Doing This To Us?
 
