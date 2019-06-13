@@ -88,7 +88,7 @@ Here are the  main features of Scrumage:
 
 5. Each sprint ends with an individual quiz. You can receive bonus points if your entire team does well on the quiz or if your individual performance improves.
 
-6. You'll also have the opportunity to complete a short reflective exercise at the end of each sprint, which will help you understand your own learning process and make improvements before the next sprint.
+6. You'll complete a brief reflection at the end of each sprint, which will help you understand your own learning process and make improvements before the next sprint.
 
 Take a look at the `Scrumage.md` document for a detailed overview of the process.
 
