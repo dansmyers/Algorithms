@@ -173,43 +173,40 @@ You can earn a **bonus point** on a quiz if either:
 **To earn a B**, you must meet the following six criteria:
 
 1. Satisfactory completion of all reflective assignments and concept maps.
-2. Get an average of at least 2.0 on your top *N* - 1 indvidual quizzes, including any bonus points you earn.
-3. Satisfactory work on *N* - 1 of the team sprint deliverables.
+2. Satisfactory completion of *N - 1* quizzes (I'll ignore your lowest quiz).
+3. Satisfactory work on all of the team sprint deliverables.
 4. Satisfactory work on major project #1.
 5. Satisfactory work on major project #2.
 6. Satisfactory performance on the final exam.
 
 **If you fail to complete the requirements for a B**, your grade will be adjusted downwards according to the following table:
 
+| For unsatisfactory performance on              | Your grade will be adjusted downwards by |
+|------------------------------------------------|------------------------------------------|
+| One quiz beyond the one you're allowed to drop | Half a letter grade                      |
+| Additional quizzes                             | A full letter grade                      |
+| One team deliverable                           | Half a letter grade                      |
+| Additional team deliverables                   | A full letter grade                      |
+| A major project                                | A full letter grade                      |
+| The final exam                                 | A full letter grade                      |
+| The reflective assignments                     | A full letter grade                      |
+| Failure to submit an assignment                | Double the penalty for an unsatisfactory submission |
 
-| For unsatisfactory performance on | Your grade will be adjusted downwards by |
-| -------------|-----------------------------------------------------|
-| One quiz beyond the one you're allowed to drop | Half a letter grade |
-| Additional quizzes          | A full letter grade |
-| One team deliverable            | Half a letter grade |
-| Additional team deliverables            | A full letter grade |
-| A major project            | A full letter grade |
-| The final exam            | A full letter grade |
-| The reflective assignments            | A full letter grade |
-| Failure to submit an assignment | Double the penalty for an unsatisfactory submission |
+These penalties are cumulative. For example, if you fail to achieve satisfactory performance on two quizzes (beyond the one you're allowed drop), your base grade would be lowered by 1.5 letters, from B to C-.
 
-These penalties are cumulative. For example, if you fail to achieve satisfactory performance on two quizzes (beyond the one you're allowed drop), you base grade would be lowered by 1.5 letters, from B to C-.
+**To earn a higher grade**, you can complete additional work that shows deeper engagement with the course goals.
 
-**To earn a higher grade**, you can complete additional work. I will adjust your final grade upwards by **one half of a letter grade** for each of the following:
-
-1. Earn an average of at least 3.0 across all quizzes, including any bonus points you earn. This rewards you for sustained high performance on the individual quizzes.
-
-2. Complete an individual challenge assignment. There will be at least two of these. This rewards you for exceptional individual engagement with the course material.
-
-3. Completion of excellent work on a team-based major project. To receive credit for this, you must turn in an extra document that makes a **successful evidence-based case** that your team has gone beyond the satisfactory requirements for the project. Your write-up must include a description of how each team member contributed to make the project excellent. This rewards you for doing high-quality teamwork.
-
-4. Completion of an in-depth reflective essay that draws upon your earlier reflections throughout the course. This rewards you for critically evaluating your own learning process.
+| For successfully completing                         | Your grade will be adjusted upwards by   |
+|-----------------------------------------------------|------------------------------------------|
+| A challenge assignment (there will be at least two) | Half a letter grade                      |
+| An in-depth reflective writing assignment           | Half a letter grade                      |
+| Bonus points on a majority of the quizzes           | Half a letter grade                      |
 
 ### Why Are You Doing This To Us?
 
 1. In a traditional system, your grade is ultimately determined by my judgment of your work. My judgment is pretty good, but specs grading gives you more clarity about where you stand and guidance for how to achieve the grade you want
 
-2. Your grade is directly tied to the learning that you demonstrate. The satisfactory work sets a baseline, but to earn a higher grade, you must either jump more hurdles or jump higher ones.
+2. Your grade is directly tied to the learning that you demonstrate. The satisfactory work sets a baseline, but to earn a higher grade, you must demonstrate a higher level of engagement with the course material.
 
 3. It gives you choices for how to attain higher grades. You can boost your grade by completing individual programming assignments, superior team-based projects, or an in-depth reflection.
 
@@ -217,7 +214,7 @@ These penalties are cumulative. For example, if you fail to achieve satisfactory
 
 5. If you only need a B or a C, you can adjust your effort accordingly: the standards are transparent. You don't have to spend time on the most difficult assignments if you don't need them to get the result you want.
 
-6. It reflects how you'll be evaluated in your career. Work assignments aren't graded out of 100% and your boss won't give partial credit for incomplete work.
+6. It reflects how you'll be evaluated in your career. Work assignments aren't graded out of 100% and your boss won't give partial credit for incomplete work. So, basically, I'm setting you up for massive career success.
 
 ### What About My Partial Credit?
 
@@ -231,11 +228,11 @@ You may feel uncomfortable about the two-level grading scale. This will pass.
 
 4. Again, industry doesn't give partial credit. If you're asked to code a feature or prepare a presentation, you're ultimately going to be evaluated on a pass / fail basis.
 
-5. There are six ways to increase your grade. You only need four of them to move from the satisfactory B- to an A.
+5. There are six ways to increase your grade. You only need three of them to move from the satisfactory B to an A.
 
 ## Course Policies
 
-**Attendance** The only way to be consistently successful in your academic ca- reer is to regularly attend class meetings and participate in in-class activities. Therefore, while I do not mandate attendance at every single class, I expect full attendance every time we meet.
+**Attendance** The only way to be consistently successful in your academic career is to regularly attend class meetings and participate in in-class activities. Therefore, while I do not mandate attendance at every single class, I expect full attendance every time we meet.
 
 **Laptops** If you have a laptop, please bring it to class.
 
