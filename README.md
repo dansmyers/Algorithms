@@ -189,8 +189,8 @@ You can earn a **bonus point** on a quiz if either:
 | Additional team deliverables                   | A full letter grade                      |
 | A major project                                | A full letter grade                      |
 | The final exam                                 | A full letter grade                      |
-| The reflective assignments                     | A full letter grade                      |
-| Failure to submit an assignment                | Double the penalty for an unsatisfactory submission |
+| Failure to complete all reflective assignments | A full letter grade                      |
+| Failure to submit an assignment                | Double the regular penalty for an unsatisfactory submission |
 
 These penalties are cumulative. For example, if you fail to achieve satisfactory performance on two quizzes (beyond the one you're allowed drop), your base grade would be lowered by 1.5 letters, from B to C-.
 
