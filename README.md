@@ -58,17 +58,17 @@ include:
 
 ## Learning Outcomes
 
-At the end of this course, you will have achieved the following learning outcomes:
+At the end of this course, you will be able to:
 
-1. Connect study of algorithms to other areas of computer science.
+1. Connect the study of algorithms to other areas of computer science.
 
-2. Understand and apply ideas of complexity and efficiency.
+2. Evaluate the complexity and efficiency of algorithms and data structures.
 
 3. Develop "algorithmic intuition" -- familiarity with common moves and techniques.
 
 4. Develop research skills to learn about new algorithms and data structures.
 
-5. Be able to talk about algorithm choices intelligently.
+5. Intelligently discuss algorithm choices and tradeoffs.
 
 ## Scrumage
 
