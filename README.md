@@ -86,7 +86,7 @@ Here are the  main features of Scrumage:
 
 4. As your professor, I'll be in the room each day to meet with your teams, answer your questions, and check your work-in-progress. You can make an **expert request** to ask for a short lecture, worked example, or other help with a particular topic.
 
-5. Each sprint ends with an individual quiz. You can receive bonus points if your entire team does well on the quiz or if your individual performance improves.
+5. Each sprint ends with an individual quiz.
 
 6. You'll complete a brief reflection at the end of each sprint, which will help you understand your own learning process and make improvements before the next sprint.
 
@@ -107,26 +107,27 @@ Finally, Scrumage supports **learning how to learn**, the **single most importan
 
 ### Sprints
 
-| Sprint       | Topic                           | Start  |   End  | Deliverable     | Outcomes |
+| Sprint       | Topic                           | Start  |   End  | Deliverable     | Learning Outcomes |
 | -------------|---------------------------------|--------|--------|-----------------|----------|
-| 1            | Fundamental Analysis Techniques |   1/13 |  1/27  | Teach the class | 1, 2, 5  |
+| 1            | Fundamental Analysis Techniques |   1/15 |  1/27  | Teach the class | 1, 2, 5  |
 | 2            | Divide-and-Conquer              |   1/27 |  2/10  | Problem set     | 2, 3     |
-| 3            | Sorting                         |  2/10  |  2/24  | Problem set     | 2, 3     |
-| 4            | Advanced Data Structures 1: Trees   |  2/24  |  3/9   | Compression     | 1, 2, 3, 4 |
-| 5            | Advanced Data Structures 2: Hashing |  3/9   |  3/30  | ????????        | 1, 2, 3, 4 |
-| 6            | Research                        |  3/30  |  4/13  | Educational video | 1, 2, 3, 4, 5 |
-| 7            | Graph Algorithms                |  4/13  |  4/27  | Procedural content generation | 1, 2, 3, 4 |
+| 3            | Advanced Data Structures: Trees and Hashing   |  2/10  |  2/24   | Implementation    | 1, 2, 3, 4 |
+| 4            | Dynamic Programming |  2/24   |  3/9  |      | 1, 2, 3, 4 |
+| 5            | Research |  3/9   |  3/25  | Make a Video       | 1, 2, 3, 4 |
+| 6            | Graph Algorithms                        |  3/30  |  4/13  | Maze generation | 1, 2, 3, 4, 5 |
+| 7            | NP Completeness                |  4/13  |  4/27  |  Problem set (probably)  | 1, 2, 3, 4, 5 |
 
 ### Schedule Guidelines
 
-You **must** be in class on the ending day of each sprint to complete the individual quiz. You must also plan to be present for in-class presentations on 1/22 and 3/25.
+You **must** be in class on the ending day of each sprint to complete the individual quiz. You must also plan to be present for in-class presentations on 1/27 and 3/25.
 
 ### Other Important Dates
 
-- First day of class: Monday, January 13 (**Note: CLA classes officially begin on 1/15**)
+- First day of class: Wednesday, January 15
 - Last day of class: Monday, April 27
 - MLK Day: Monday, January 20
 - Spring Break: Saturday, 3/14 to Sunday 3/22 (occurs during Sprint 5)
+- Dr. Myers at Sunshine State Teaching and Learning Conference: 1/29
 - Dr. Myers at SIGCSE: Wednesday, 3/11 to Sunday, 3/15
 - Last day to drop the class: ????????
 - Last day to withdraw without penalty: ????????
@@ -141,13 +142,12 @@ Rather than calculating your score as number of points on a 0-100 scale, your gr
 If you achieve satisfactory performance on enough assigments, described in more detail below, you'll receive a baseline grade of **B** for the course. This demonstrates that you have engaged with the material and met the basic learning outcomes for the class. To get a higher grade, you can do more work that shows greater mastery of the course learning outcomes.
 
 ### Assignments and Scoring
-We'll have five kinds of assignments in the class:
+We'll have four kinds of assignments in the class:
 
-1. Short reflective pieces completed at the end of each sprint.
+1. Short reflective pieces and concept maps completed at the end of each sprint.
 2. Team deliverables due at the end of each sprint.
 3. Indvidual quizzes
-4. Two major projects, due at the ends of sprints 5 and 7.
-5. A final exam.
+4. A final exam.
 
 I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. 
 A "satisfactory" assignment corresponds to a B-level performance, which is **a higher standard** than we often associate with that term. It means that the work is:
@@ -156,17 +156,11 @@ A "satisfactory" assignment corresponds to a B-level performance, which is **a h
 2. Shows real understanding and application of the course material.
 3. Completed on time in the required format.
 
-I'll grade the quizzes on a scale from 0 to 3:
+I'll grade the quizzes on a scale from 0 to 2:
 
 0. No submission, or too incomplete to grade.
 1. Shows effort, but has serious issues.
 2. Satisfactory.
-3. Excellent, complete and correct with an attention to detail and insight that goes beyond satisfactory.
-
-You can earn a **bonus point** on a quiz if either:
-
-1. Every member of your team earns a 2 or 3.
-2. You improve your individual performance relative to the last quiz.
 
 ### Final Letter Grades
 
@@ -183,11 +177,10 @@ You can earn a **bonus point** on a quiz if either:
 
 | For unsatisfactory performance on              | Your grade will be adjusted downwards by |
 |------------------------------------------------|------------------------------------------|
-| One quiz beyond the one you're allowed to drop | Half a letter grade (e.g. B to B-)       |
+| One quiz beyond the one you're allowed to drop | Fraction of a letter grade (e.g. B to B-)       |
 | Additional quizzes                             | A full letter grade (e.g. B to C)        |
-| One team deliverable                           | Half a letter grade                      |
+| One team deliverable                           | Fraction of a letter grade                      |
 | Additional team deliverables                   | A full letter grade                      |
-| A major project                                | A full letter grade                      |
 | The final exam                                 | A full letter grade                      |
 | Failure to complete all reflective assignments | A full letter grade                      |
 | Failure to submit an assignment                | Double the regular penalty for an unsatisfactory submission |
@@ -200,7 +193,7 @@ These penalties are cumulative. For example, if you fail to achieve satisfactory
 |-----------------------------------------------------|------------------------------------------|
 | A challenge assignment (there will be at least two) | Half a letter grade                      |
 | An in-depth reflective writing assignment           | Half a letter grade                      |
-| Bonus points on a majority of the quizzes           | Half a letter grade                      |
+|            | Half a letter grade                      |
 
 If your grade drops, you can still complete extra work to boost it up. For example, you could struggle with one team deliverable, but
 complete the reflective writing assignment. The two would cancel each other out and your grade would remain a B.
