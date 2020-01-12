@@ -127,8 +127,8 @@ You **must** be in class on the ending day of each sprint to complete the indivi
 - Spring Break: Saturday, 3/14 to Sunday 3/22 (occurs during Sprint 5)
 - Dr. Myers at Sunshine State Teaching and Learning Conference: 1/29
 - Dr. Myers at SIGCSE: Wednesday, 3/11 to Sunday, 3/15
-- Last day to drop the class: ????????
-- Last day to withdraw without penalty: ????????
+- Last day to drop the class: January 28
+- Last day to withdraw without penalty: April 3
 
 ## The All-Important Grading Section
 
