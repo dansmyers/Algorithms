@@ -10,7 +10,7 @@ dmyers@rollins.edu
 407-646-2146
 
 ## Office Hours
-Office hours for Spring 2019
+Office hours for Spring 2020:
 
 - Mondays 10:00 to 11:00
 - Tuesdays 2:00 to 3:00
