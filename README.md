@@ -117,7 +117,7 @@ Finally, Scrumage supports **learning how to learn**, the **single most importan
 
 ### Schedule Guidelines
 
-You **must** be in class on the ending day of each sprint to complete the individual quiz. You must also plan to be present for in-class presentations on 1/27 and 3/25.
+You **must** be in class on the ending day of each sprint to complete the individual quiz.
 
 ### Other Important Dates
 
