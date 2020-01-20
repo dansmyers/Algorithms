@@ -5,7 +5,7 @@
 ### Big-O Definition
 Use the **formal definition** of Big-O notation to argue that 
 
-*f*(*n*) = *3n<sup>2</sup> + 9n + 5*
+*f*(*n*) = 3*n*<sup>2</sup> + 9*n* + 5
 
 is *O*(*n<sup>2</sup>)
 
@@ -14,7 +14,7 @@ What is the difference between Big-O and Little-O notation? Explain why it's cor
 
 *f(n) = 3n + 1*
 
-is *O*(*n*), *O*(n<sup>2</sup>), and *o*(n<sup>2</sup>)
+is *O*(*n*), *O*(*n*<sup>2</sup>), and *o*(*n*<sup>2</sup>)
 
 ### It's Better Than Bad, It's Good!
 
@@ -22,7 +22,7 @@ Show that *f*(*n*) = log(*n*!) is O(*n* log *n*)
 
 ### Polynomials
 
-Use the **formal definition** of Theta notation to argue that the log of a *d*-degree polynomial with positive coefficients must be
+Use the **formal definition** of *Θ* notation to argue that the log of a *d*-degree polynomial with positive coefficients must be
 *Θ*(log *n*).
 
 ## Pseudocode Complexity
