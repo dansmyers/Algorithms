@@ -12,7 +12,7 @@ is *O*(*n<sup>2</sup>)
 ### Big and Little
 What is the difference between Big-O and Little-O notation? Explain why it's correct to say that 
 
-*f(n) = 3n + 1*
+*f*(*n*) = 3*n* + 1
 
 is *O*(*n*), *O*(*n*<sup>2</sup>), and *o*(*n*<sup>2</sup>)
 
