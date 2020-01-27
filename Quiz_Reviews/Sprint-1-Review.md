@@ -75,3 +75,7 @@ traversals on an example tree and give the output that results.
 Here's a classic question that sometimes shows up in programming interviews. **Do some research** to find a solution, then write
 it up in pseudocode.
 
+Suppose you have a non-circular linked list and want to detect if it contains a cycle. That is, you want to check if any node's `next` 
+field points to a node earlier in the list. This should never happen in a normal linked list.
+
+Describe an algorithm for solving the cycle detection problem.
