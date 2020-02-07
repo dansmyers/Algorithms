@@ -27,6 +27,10 @@ Here are some more relations you can try:
 
 ## Quicksort
 
-Be able to use the partition algorithm to divide an array.
+Most of the work for Chapter 7 was handled by the deliverable programming problem. Therefore, the questions I would ask for this section are most conceptual and focused on explaining the behavior of the algorithm:
 
-Be able to give, in your own words, a justification for why quicksort is Θ(*n* lg *n*) in the average case and Θ(*n*<sup>2</sup>) when the input is already sorted.
+- Be able to use the partition algorithm to divide an array.
+
+- Be able to give, in your own words, a justification for why quicksort is Θ(*n* lg *n*) in the expected case and Θ(*n*<sup>2</sup>) when the input is already sorted. Tip: drawing a recursion tree may be helpful for demonstrating the average case behavior.
+
+- Summarize the practical performance differences of quicksort and merge sort. Quicksort is often faster in practice, but why? Other than the obvious case of already-sorted data, what advantages does merge sort have over quicksort?
