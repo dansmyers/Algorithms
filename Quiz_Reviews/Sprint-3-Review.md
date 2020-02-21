@@ -6,8 +6,10 @@
 
 Consider a hash table with 10 bukkits and a linear probing strategy. Draw the table that results after successively inserting the following keys:
 
-11  2  45  17  31  9  15
+11,  2,  45,  17,  31,  9,  15
 
+
+<img src="https://i.kym-cdn.com/entries/icons/mobile/000/000/029/lolrus.jpg" width=50% />
 
 ### Double-Hashing
 
@@ -24,7 +26,7 @@ Summarize, in your own words, an argument for why the average lookup time in a c
 
 Construct a binary search tree by successively inserting the following values:
 
-20  15  35  18  12  19  28  32  24  45
+20,  15,  35,  18,  12,  19,  28,  32,  24,  45
 
 then show the tree that results after deleting 35.
 
