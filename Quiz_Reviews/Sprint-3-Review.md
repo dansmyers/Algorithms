@@ -9,7 +9,7 @@ Consider a hash table with 10 bukkits and a linear probing strategy. Draw the ta
 11  2  45  17  31  9  15
 
 
-## Double-Hashing
+### Double-Hashing
 
 How does the double-hashing strategy work? What is its advantage over basic linear probing?
 
