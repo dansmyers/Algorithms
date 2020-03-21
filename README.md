@@ -75,17 +75,13 @@ asynchronously, using videos and readings, and use video conferencing for check-
 
 ### Remaining Topics
 
-We have three sprints to get through for the rest of the semester:
+I've decided to cut Sprint 7, which would be extra material on NP Completeness. That's a nice topic, but not essential for practical purposes (basically: some problems are hard and don't have efficient algorithms, *as far as we know*).
 
-- Finish sprint 5
-- Sprint 6 on graph algorithms
-- Sprint 7 on NP completeness
-
-**We'll continue with the same schedule from the original sylabus unless it turns out that we need to modify it**.
+That leaves us with Sprint 5 to finish, followed by Sprint 6 on graph algorithms, which are important. My plan is to extend the end of Sprint 5 by half a week, to **April 1**. Sprint 6 will then run from April 1 to April 22. We'll use the last week to wrap things up and let you finish any remaining challenge projects.
 
 ### Sprint 5
 
-Keep working on Sprint 5 with your teammates. To simplify things
+Keep working on Sprint 5 with your teammates. To simplify things, you only need to produce the text write-ups: you don't need to make videos.
 
 ### Final Exam
 
@@ -94,8 +90,8 @@ much code as possible.
 
 ### Challenge Projects
 
-I've posted the first challenge project on GitHub. There will be one more, plus a more in-depth reflective writing assignment before
-the end of the semester.
+I've posted the first challenge project on GitHub. There will be at least one more, plus a more in-depth reflective writing assignment 
+before the end of the semester.
 
 ## Content Delivery and Office Hours
 
