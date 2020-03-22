@@ -1,7 +1,5 @@
 # CMS 460 Spring 2020: COVID-19 Response Plan
 
-## This is still a draft. I'll send a message to the class when the final version is ready.
-
 <img src="https://i.chzbgr.com/full/9448823040/hDD42FB11/understand-cdc-s-covid-19-beatles-wanna-hold-hand-cdc-not-advisable-beatles-wanna-hold-hand-cdc-no" width="50%" />
 
 <img src="https://cdn.dopl3r.com//media/memes_files/pj-theberge-atpj-theberge-cdc-wash-your-hands-frequently-neil-diamond-haaaaaands-cdc-coronavirus-is-contagious-neil-diamond-touching-haaaands-cdc-dont-touch-hands-neil-diamond-reaching-ouuuuut-cdc-please-avoid-that-neil-diamond-tou-rnS7Q.jpg" width="50%" />
@@ -27,24 +25,14 @@ to meet live via WebEx, I'm happy to accomodate that.
 
 ## Collaboration
 
-Previously, I'd encouraged you to talk with your classmates about the course work, but to develop all of your submissions indpendently.
-Under our new situation, **I don't want you to feel isolated**, so I'm now **encouraging you to collaborate freely** to complete the
-course work. To start, I'll group you into teams roughly based on the people that you've been working with in class so far. Think of your team as your remote study group. 
-
-Note that we're not doing "group projects": **please continue to submit your work individually** so I have a record of everything that's 
-turned in. You can, if you like, think of this as an environment where we're still completing indvidual assignments, but you're allowed 
-to freely discuss and check your work with your fellow students.
-
-I'll start by sending each team an invite to a dedicated Slack group. We'll stay with the initial teams for a couple of weeks: if you 
-want rearrange to work with other people or if you'd prefer to work independently after that point then you can feel free to make 
-changes.
+Keep working with your teams. I'm assuming that most teams already have communication channels that they're comfortable with, but I can create private Slack groups for each team if that would be helpful.
 
 ## Tools
 
 ### Slack
 
 Slack is an instant messaging app that's now widely used as a replacement for e-mail in many companies. I've created a Slack
-channel for our class, `#cms-460-spring-2020`.
+channel for our class, `#cms460-s20`.
 
 Use the invite link posted to Canvas to join the channel. Once you've joined, post a quick intro message and a meme to let me know you've made it.
 
@@ -81,12 +69,11 @@ That leaves us with Sprint 5 to finish, followed by Sprint 6 on graph algorithms
 
 ### Sprint 5
 
-Keep working on Sprint 5 with your teammates. To simplify things, you only need to produce the text write-ups: you don't need to make videos.
+Keep working on Sprint 5 with your teammates. To simplify things, you only need to produce the text write-ups: **you don't need to make videos**.
 
 ### Final Exam
 
-We will not have a written final. Giving a written exam remotely is tough, and at this point I want to prioritize writing as
-much code as possible.
+**We will have a written final**. I'll let you use the last couple of class sessions to collaboratively design the content for the final. I'm not going attempt to introduce any crazy proctoring system for the final, so it will be open-everything and honor based.
 
 ### Challenge Projects
 
