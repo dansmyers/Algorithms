@@ -65,7 +65,7 @@ asynchronously, using videos and readings, and use video conferencing for check-
 
 I've decided to cut Sprint 7, which would be extra material on NP Completeness. That's a nice topic, but not essential for practical purposes (basically: some problems are hard and don't have efficient algorithms, *as far as we know*).
 
-That leaves us with Sprint 5 to finish, followed by Sprint 6 on graph algorithms, which are important. My plan is to extend the end of Sprint 5 by half a week, to **April 1**. Sprint 6 will then run from April 1 to April 22. We'll use the last week to wrap things up and let you finish any remaining challenge projects.
+That leaves us with Sprint 5 to finish, followed by Sprint 6 on graph algorithms, which have significant practical applications. My plan is to extend the end of Sprint 5 by half a week, to **April 1**. Sprint 6 will then run from April 1 to April 22. We'll use the last week to wrap things up and let you finish any remaining challenge projects.
 
 ### Sprint 5
 
