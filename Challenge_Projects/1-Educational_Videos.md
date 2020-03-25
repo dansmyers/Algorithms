@@ -22,6 +22,8 @@ If you work with others, the length of the video should increase proportionally,
 to get to as you might at first expect. For team-based projects, consider digging in to one of the advanced data structures (B-trees,
 skip lists, splay trees) or describing an algorithms topic that we didn't cover in class.
 
+If you were already working on a video for Sprint 5, you can continue with that as your topic if you choose.
+
 ## Creation
 
 You can use any tool you want to make your video as long as the result is of good quality. If you have access to Canvas Studio, I'm finding
