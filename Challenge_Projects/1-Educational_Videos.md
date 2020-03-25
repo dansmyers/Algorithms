@@ -1,6 +1,8 @@
-# Educational Videos
+#  Challenge Project: Educational Videos
 
 ## Due on or before April 24 (the Friday before classes end)
+
+<img src="https://images2.memedroid.com/images/UPLOADED17/4fa069d622a96.jpeg" width="50%" />
 
 ## Description
 
