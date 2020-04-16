@@ -38,7 +38,7 @@ them was ever discovered, it would imply that efficient algorithms exist for **a
 fact that relatively small changes in a problem's formulation can lead to big changes in its apparent complexity is the kind of thing
 that drives theoretical computer scientists bonkers (in a good way).
 
-### What Does It Mean to be NP?
+### What Is the Class of NP Problems?
 
 It might be tempting to think that "NP" stands for "non-polynomial", but the term *NP* officially stands for **non-deterministic polynomial time**. The concept of non-determinisim originally came out of research on Turing machines and the name has stuck around,
 but most books, including CLRS, don't rely on non-deterministic Turing machines to describe what a NP problem is (thankfully).
