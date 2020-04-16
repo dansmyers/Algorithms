@@ -108,7 +108,7 @@ is valid.
 
 ### From NP to NP-Complete
 
-Okay. A problem is in the class NP if it has this special "hard to solve, easy to check" property. What about **NP-complete** problems?
+Okay. A problem is in the class NP if it has the special "hard to solve, easy to check" property. What about **NP-complete** problems?
 
 The standard statement is that the NP-complete problems are **as hard as any other problem in NP**. I've always found this phrasing
 tough, because it relies on understanding the idea of relative hardness of problems.
