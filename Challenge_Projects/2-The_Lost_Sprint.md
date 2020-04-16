@@ -160,3 +160,14 @@ Section 34.3 in CLRS tells you more about Cook's result and Boolean satisfiabili
 
 ## Deliverables
 
+NP-completeness proofs are pretty challenging. I would like you to answer two questions.
+
+### P vs. NP
+
+Explain the significance of the P vs. NP question. Why is this of high interest to math and computer science? What are the high-level arguments in favor of P = NP and P != NP? Which one is considered to be the most likely?
+
+### Reductio ad Absurdum
+
+Pick any one of the examples from section 34.5. Write down your own example showing how to perform a reduction of one NP-complete problem to another.
+
+For example, the first example shows how to express the 3-CNF-SAT problem (which is one of the standard NP-complete problems) to the graph clique problem, proving that CLIQUE is also NP-complete. If you choose this example, you would create your own example showing how to turn an instance of 3-CNF-SAT into an instance of the CLIQUE problem.
