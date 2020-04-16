@@ -124,8 +124,17 @@ This "chain" of equivalent problems is the set of NP-complete problems.
 
 - **Any other NP problem** can be transformed into an instance of an NP-complete problem.
 
-In order to kick this process off, we need on problem that we know to be NP-complete. Once that problem is identified, we can use
-the reduction argument to show that other problems are also NP-complete. 
+### Cook's Theorem
+
+In order to kick this process off, we need one problem that we know to be NP-complete. Once that problem is identified, we can use
+the reduction argument to show that other problems are also NP-complete.
+
+This result was provided in 1971 by Stephen Cook, who showed
+that a problem called **Boolean satisfiability** was NP-complete. This turned out to be a fairly insane result, because it required
+showing that **any problem in NP** could be turned into an instance of the Boolean satisfiability problem, which doesn't seem like a 
+thing you should be able to do.
+
+Section 34.3 in CLRS tells you more about Cook's result and Boolean satisfiability.
 
 
 ## Reading
