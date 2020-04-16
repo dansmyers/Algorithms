@@ -7,6 +7,18 @@ itself up quite so bad.
 
 This micro-unit will let you dig into two important topics in theoretical CS: the concept of NP-completeness and the famous P = NP problem.
 
+
+
+## Reading
+
+Start with my notes on the key ideas below, then look at the [first half of this presentation](https://www.cs.jhu.edu/~susan/600.363/tetris.pdf), which talks about proving that Tetris is NP-complete. The Tetris part is kind of 
+hard to follow from the slides, but the first part is a good overview of the important concepts.
+
+
+
+
+
+
 ## Key Ideas
 
 ### Overview
@@ -70,6 +82,13 @@ There are two ways to think about a problem like the TSP:
 In the NP-completeness world, **we are interested in the decision version of the problem**. We don't need to find the **best** solution,
 just find out if one with a length less than the target *d* exists.
 
+Here's another example, taken from Wikipedia.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Weighted_K4.svg/1920px-Weighted_K4.svg.png" width="50%" />
+
+- The optimization version of the problem would ask you to find the best route to leave A, visit every other node, and then return to A. 
+- An example decision problem would ask if there is a satisfying route with a distance less than 100.
+
 This may seem like a big concession, but it really isn't: if I could solve the decision version of the problem efficiently, I could
 still solve the full optimization version by binary searching on the distance *d*, adjusting it until I identify the smallest
 distance that has a solution.
@@ -82,7 +101,9 @@ Here's the key idea:
 proposed solution actually solves the problem**: verify that it visits every city and that the total length of the route is less than
 *d*. You can do that in polynomial time.
 
-The class NP consists of problems that have this property: they're **hard to solve** but it's **easy to check** if a proposed solution
+In the TSP example above, it's easy to verify that the route A -> B -> C -> D -> A satisfies the TSP with a distance of less than 100.
+
+The class NP consists of problems that have this property: they're **hard to solve** fro scratch, but it's **easy to check** if a proposed solution
 is valid.
 
 ### From NP to NP-Complete
@@ -136,8 +157,6 @@ thing you should be able to do.
 
 Section 34.3 in CLRS tells you more about Cook's result and Boolean satisfiability.
 
-
-## Reading
 
 ## Deliverables
 
