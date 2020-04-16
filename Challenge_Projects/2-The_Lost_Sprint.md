@@ -61,6 +61,71 @@ Here's an example, [from MentalFloss](https://www.mentalfloss.com/article/84064/
 
 <img src="https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555306224/shape/mentalfloss/primary_159.png" width="50%" />
 
+There are two ways to think about a problem like the TSP:
+
+1. As an **optimization** problem: given a map and the list of cities to visit, find the route of minimum distance.
+
+2. As a **decision** problem: given the map, the list of cities, and a target distance *d*, determine if there is a route with length no more than *d*.
+
+In the NP-completeness world, **we are interested in the decision version of the problem**. We don't need to find the **best** solution,
+just find out if one with a length less than the target *d* exists.
+
+This may seem like a big concession, but it really isn't: if I could solve the decision version of the problem efficiently, I could
+still solve the full optimization version by binary searching on the distance *d*, adjusting it until I identify the smallest
+distance that has a solution.
+
+Here's the key idea:
+
+- Actually solving the decision version by finding the route with length *d* or better is probably going to be hard. The naive algorithm would require enumerating all routes through the cities, which has factorial complexity.
+
+- Suppose though, that a mysterious benefactor happens to give you a candidate solution to the problem. **It's easy to check if the
+proposed solution actually solves the problem**: verify that it visits every city and that the total length of the route is less than
+*d*. You can do that in polynomial time.
+
+The class NP consists of problems that have this property: they're **hard to solve** but it's **easy to check** if a proposed solution
+is valid.
+
+### From NP to NP-Complete
+
+Okay. A problem is in the class NP if it has this special "hard to solve, easy to check" property. What about **NP-complete** problems?
+
+The standard statement is that the NP-complete problems are **as hard as any other problem in NP**. I've always found this phrasing
+tough, because it relies on understanding the idea of relative hardness of problems.
+
+Suppose you have a problem *P* that you want to solve, but don't have an efficient algorithm for. Also suppose that you have another
+problem *Q* that **does** have an efficient algorithm. Here's a strategy for solving *P* efficiently:
+
+1. Transform problem *P* into an instance of problem *Q*.
+
+2. Use your efficient algorithm to solve *Q*.
+
+3. Transform the solution for *Q* back into a solution for *P*.
+
+This strategy will allow you to solve *P* efficiently, provided that the transformations in steps (1) and (3) don't take too much work.
+
+What does this setup imply about the relationship between the difficulty of the two problems, *P* and *Q*?
+
+- First, if *Q* has a polynomial-time algorithm, that would mean that *P* can also be solved in polynomial time (again, provided that
+the transformation overhead in steps (1) and (3) is also polynomial). **Therefore, if *Q* is easy, *P* must also be easy**.
+
+- How about if we go the other way? Suppose that *P* is a problem that we believe to be **hard**, like the Traveling Salesman Problem. If I can use *Q* to solve *P*, then *Q* **must also be hard**: if *Q* had an easy polynomial-time solution, it would imply that the TSP
+has an easy polynomial solution, contradicting our assumption.
+
+Therefore, if we start with *P* as a problem that we know to be hard, we can use this technique to show that a new problem *Q* must
+also be hard, **at least as hard as *P***. This technique is called a **reduction**, because it "reduces" an instance of problem *P* to problem *Q*.
+
+Through reduction, we can build up a chain of problems that could all be used to solve each other. Because an efficient algorithm for
+any problem in the chain implies an efficient solution for all the others, we can say that they are all of "equal" difficulty, even
+if the different problems don't appear to have anything in common with each other.
+
+This "chain" of equivalent problems is the set of NP-complete problems.
+
+- They all have the "hard to solve, easy to check" property.
+
+- **Any other NP problem** can be transformed into an instance of an NP-complete problem.
+
+In order to kick this process off, we need on problem that we know to be NP-complete. Once that problem is identified, we can use
+the reduction argument to show that other problems are also NP-complete. 
 
 
 ## Reading
