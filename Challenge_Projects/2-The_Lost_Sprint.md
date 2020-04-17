@@ -105,7 +105,7 @@ Here's another example, taken from Wikipedia.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Weighted_K4.svg/1920px-Weighted_K4.svg.png" width="30%" />
 
-- The optimization version of the problem would ask you to find the best route to leave A, visit every other node, and then return to A. 
+- An optimization version of the problem would ask you to find the best route to leave A, visit every other node, and then return to A. 
 - An example decision problem would ask if there is a satisfying route with a distance less than 100.
 
 This may seem like a big concession, but it really isn't: if I could solve the decision version of the problem efficiently, I could
