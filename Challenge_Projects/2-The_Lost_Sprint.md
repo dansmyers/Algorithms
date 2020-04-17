@@ -15,7 +15,7 @@ This micro-unit will let you dig into two important topics in theoretical CS: th
 
 ## Reading
 
-Start with my notes on the key ideas below, then look at the [first half of this presentation](https://www.cs.jhu.edu/~susan/600.363/tetris.pdf), which talks about proving that Tetris is NP-complete. The Tetris part is kind of 
+Start with my notes on the key ideas below, then look at the [first half of this presentation](https://www.cs.jhu.edu/~susan/600.363/tetris.pdf), which talks about proving that Tetris is NP-complete (yes, really). The Tetris part is kind of 
 hard to follow from the slides, but the first part is a good overview of the important concepts.
 
 After quickly reading through those, read the first part of Chapter 34 of CLRS, which is again an introduction to the important concepts
