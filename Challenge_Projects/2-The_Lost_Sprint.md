@@ -7,9 +7,9 @@
 Here, as promised, is an intro to the material that would have been part of our last sprint had, you know, the world not screwed
 itself up quite so bad.
 
-This micro-unit will let you dig into two important topics in theoretical CS: the concept of NP-completeness and the famous P = NP problem.
+This micro-unit will let you dig into two important topics in theoretical CS: the concept of NP-completeness and the famous P vs. NP problem.
 
-<img src="https://imgs.xkcd.com/comics/np_complete.png" width="50%" />
+<img src="https://imgs.xkcd.com/comics/np_complete.png" width="75%" />
 
 ## Reading
 
