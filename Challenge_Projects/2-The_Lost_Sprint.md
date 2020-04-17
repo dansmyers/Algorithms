@@ -190,7 +190,7 @@ Explain the significance of the P vs. NP question. Why is this of high interest 
 
 Pick any one of the examples from section 34.4 or 34.5. Write down your own example showing how to use an instance of one NP-complete problem to solve a different NP-complete problem.
 
-For example, the first example in 34.5 shows how to express the 3-CNF-SAT problem (which is one of the standard NP-complete problems) to the graph clique problem, which is used to prove that CLIQUE is also NP-complete. You could construct an instance of the 3-CNF-SAT problem, then show how to transform it into an instance of CLIQUE.
+For example, the first example in 34.5 shows how to express the 3-CNF-SAT problem (which is one of the standard NP-complete problems) as an instance of the graph clique problem, which is used to prove that CLIQUE is also NP-complete. If you pick this reduction for your answer, you would construct an instance of the 3-CNF-SAT problem, then show how to transform it into an instance of CLIQUE.
 
 Note that I want you to do this for a **single concrete instance of the problem**. You don't have to produce a general method for converting all instances of one problem to the other. Our goal is to dig into the concept of reducibility and understand the technique 
 of using one problem to solve another. Make your example different from the one in the book and non-trivial.
