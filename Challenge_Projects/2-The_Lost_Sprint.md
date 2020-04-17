@@ -33,6 +33,9 @@ Finally, 34.4 and 34.5 are the meat of the chapter: both sections show how to pr
 
 A good starting point for engaging with 34.4 is to understand the SAT problem and its more restricted variations, 3-SAT and 3-CNF-SAT. These are classic problems that show up in a lot of contexts.
 
+When you are working on the deliverable question, described in more detail below, a good, accessible problem to tackle is the reduction of CIRCUIT-SAT to SAT (Theorem 34.9). I suggest starting with that problem as an example for how the NP-completeness proofs work. If 
+time permits, you can consider some of the examples in 34.5.
+
 ## Key Ideas
 
 ### Overview
@@ -190,4 +193,10 @@ Pick any one of the examples from section 34.4 or 34.5. Write down your own exam
 For example, the first example shows how to express the 3-CNF-SAT problem (which is one of the standard NP-complete problems) to the graph clique problem, which is used to prove that CLIQUE is also NP-complete. You could construct an instance of the 3-CNF-SAT problem, then show how to transform it into an instance of CLIQUE.
 
 Note that I want you to do this for a **single concrete instance of the problem**. You don't have to produce a general method for converting all instances of one problem to the other. Our goal is to dig into the concept of reducibility and understand the technique 
-of using one problem to solve another.
+of using one problem to solve another. Make your example different from the one in the book and non-trivial.
+
+If you are unsure where to get started, I recommend looking at Theorem 34.9, which shows how reduce CIRCUIT-SAT to SAT. Understanding
+that result and then creating another example that illustrates the technique of the proof would be enough to get full credit for 
+this assignment.
+
+If you want to go on after that and look at some of the harder examples in 34.5, power to you.
