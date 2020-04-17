@@ -1,6 +1,8 @@
 # The Lost Sprint: NP-Completeness
 
-## Due on or before April 28
+## Due on or before April 28.
+
+## You can work on this with your teammates.
 
 ## Description
 
@@ -16,10 +18,20 @@ This micro-unit will let you dig into two important topics in theoretical CS: th
 Start with my notes on the key ideas below, then look at the [first half of this presentation](https://www.cs.jhu.edu/~susan/600.363/tetris.pdf), which talks about proving that Tetris is NP-complete. The Tetris part is kind of 
 hard to follow from the slides, but the first part is a good overview of the important concepts.
 
+After quickly reading through those, read the first part of Chapter 34 of CLRS, which is again an introduction to the important concepts
+of the chapter. Your goal is to get some familiarity with the terminology and concepts so you can read the later chapters more smoothly.
 
+Read the very beginning of 34.1 on polynomial time algorithms. The rest of 34.1 can be skimmed.
 
+- There is one part of 34.1 that will come up in the later sections: the last part of the section introduces the idea of specifying a problem description as a formal language. At our level of interest, this is mostly an extra formality that we don't need to worry about. For practical purposes, when the book talks about "language" in the subsequent sections, you can mentally replace it with "problem".
 
+Read the **end** of 34.2 on the complexity class NP. The first parts of 34.2 deal with polynomial time verification, which you should be okay with from the earlier notes.
 
+The beginning of 34.3 discusses the general details of reducibility in more technical detail than the earlier notes. My suggestion is to make sure you understand the descriptions of reducibility in the intro notes and the first part of the Chapter 34 before tackling this section. You **do not** have to read the part on circuit satisfiability, although it is nice to know that it was the first problem ever proved to be NP-complete.
+
+Finally, 34.4 and 34.5 are the meat of the chapter: both sections show how to prove that a new problem is NP-complete using the combination of reduction and an existing NP-complete problem. You will need to look at these as you work on the deliverable, but I suggest that you avoid getting bogged down: all of these proofs are complex, maybe the hardest we've seen in the class.
+
+A good starting point for engaging with 34.4 is to understand the SAT problem and its more restricted variations, 3-SAT and 3-CNF-SAT. These are classic problems that show up in a lot of contexts.
 
 ## Key Ideas
 
@@ -71,7 +83,9 @@ by looking at one famous problem.
 Imagine a traveling salesman, who has to visit a number of cities to make sales calls. He wants to find a route that will let him start 
 at his home, visit every city, and then return home, **taking the shortest possible distance for the entire route**.
 
-Here's an example, [from MentalFloss](https://www.mentalfloss.com/article/84064/road-trip-genius-calculates-shortest-route-through-47-national-parks), showing the optimal route to make a circuit through all 47 mainland National Parks.
+More generally, we're given a series of points on the plane and need to plan a the shortest possible route that begins and ends at a specified point and visits every other point once.
+
+Here's an example [from MentalFloss](https://www.mentalfloss.com/article/84064/road-trip-genius-calculates-shortest-route-through-47-national-parks) showing the optimal route to make a circuit through all 47 mainland National Parks.
 
 <img src="https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555306224/shape/mentalfloss/primary_159.png" width="50%" />
 
@@ -137,7 +151,7 @@ has an easy polynomial solution, contradicting our assumption.
 Therefore, if we start with *P* as a problem that we know to be hard, we can use this technique to show that a new problem *Q* must
 also be hard, **at least as hard as *P***. This technique is called a **reduction**, because it "reduces" an instance of problem *P* to problem *Q*.
 
-Through reduction, we can build up a chain of problems that could all be used to solve each other. Because an efficient algorithm for
+Through reduction, we can build up a chain of problems that could be used to solve each other. Because an efficient algorithm for
 any problem in the chain implies an efficient solution for all the others, we can say that they are all of "equal" difficulty, even
 if the different problems don't appear to have anything in common with each other.
 
@@ -145,7 +159,8 @@ This "chain" of equivalent problems is the set of NP-complete problems.
 
 - They all have the "hard to solve, easy to check" property.
 
-- **Any other NP problem** can be transformed into an instance of an NP-complete problem.
+- Any NP-complete problem is as hard or harder than any other problem in the class NP. The NP-complete problems are like the hard
+candy shell protecting the boundary of the complexity class NP.
 
 ### Cook's Theorem
 
@@ -170,6 +185,9 @@ Explain the significance of the P vs. NP question. Why is this of high interest 
 
 ### Reductio ad Absurdum
 
-Pick any one of the examples from section 34.5. Write down your own example showing how to perform a reduction of one NP-complete problem to another.
+Pick any one of the examples from section 34.4 or 34.5. Write down your own example showing how to use an instance of one NP-complete problem to solve a different NP-complete problem.
 
-For example, the first example shows how to express the 3-CNF-SAT problem (which is one of the standard NP-complete problems) to the graph clique problem, proving that CLIQUE is also NP-complete. If you choose this example, you would create your own example showing how to turn an instance of 3-CNF-SAT into an instance of the CLIQUE problem.
+For example, the first example shows how to express the 3-CNF-SAT problem (which is one of the standard NP-complete problems) to the graph clique problem, which is used to prove that CLIQUE is also NP-complete. You could construct an instance of the 3-CNF-SAT problem, then show how to transform it into an instance of CLIQUE.
+
+Note that I want you to do this for a **single concrete instance of the problem**. You don't have to produce a general method for converting all instances of one problem to the other. Our goal is to dig into the concept of reducibility and understand the technique 
+of using one problem to solve another.
