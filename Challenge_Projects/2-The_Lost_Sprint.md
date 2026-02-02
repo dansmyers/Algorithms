@@ -122,7 +122,7 @@ proposed solution actually solves the problem**: verify that it visits every cit
 
 In the TSP example above, it's easy to verify that the route A -> B -> C -> D -> A satisfies the TSP with a distance of less than 100.
 
-The class NP consists of problems that have this property: they're **hard to solve** fro scratch, but it's **easy to check** if a proposed solution
+The class NP consists of problems that have this property: they're **hard to solve** from scratch, but it's **easy to check** if a proposed solution
 is valid.
 
 ### From NP to NP-Complete
